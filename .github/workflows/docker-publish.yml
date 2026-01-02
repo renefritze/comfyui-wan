@@ -1,0 +1,32 @@
+name: Build and Push Docker Image
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build_and_push:
+    runs-on: ubuntu-latest
+    env:
+      DOCKER_BUILDKIT: 1
+      COMPOSE_DOCKER_CLI_BUILD: 1
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Log in to Docker Hub
+        env:
+          DOCKERHUB_USER: ${{ secrets.DOCKERHUB_USER }}
+          DOCKERHUB_PAT: ${{ secrets.DOCKERHUB_PAT }}
+        run: |
+          echo "${DOCKERHUB_PAT}" | docker login -u "${DOCKERHUB_USER}" --password-stdin
+
+      - name: Build and push image
+        env:
+          DOCKERHUB_USER: ${{ secrets.DOCKERHUB_USER }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          IMG="docker.io/${DOCKERHUB_USER}/comfyui-wan-template"
+          docker build --progress=plain -t "${IMG}:${TAG}" .
+          docker push "${IMG}:${TAG}"
