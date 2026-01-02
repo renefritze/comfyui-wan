@@ -2219,7 +2219,7 @@
         }
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "t2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -2267,7 +2267,7 @@
         }
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "t2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -2315,7 +2315,7 @@
         }
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "t2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -2363,7 +2363,7 @@
         }
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "t2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -2411,7 +2411,7 @@
         }
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "t2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -2459,7 +2459,7 @@
         }
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "t2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -2507,7 +2507,7 @@
         }
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "t2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -2555,7 +2555,7 @@
         }
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "t2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",

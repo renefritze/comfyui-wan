@@ -1089,7 +1089,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "i2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -1133,7 +1133,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "i2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -1177,7 +1177,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "i2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -1221,7 +1221,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "i2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -1265,7 +1265,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "i2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -1309,7 +1309,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "i2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -1429,7 +1429,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "i2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
@@ -1473,7 +1473,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+        "i2v_lightx2v_high_noise_model.safetensors",
         1
       ],
       "color": "#223",
