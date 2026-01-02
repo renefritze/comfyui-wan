@@ -1130,7 +1130,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "wan_2.1_vae.safetensors"
+        "wan2.2_vae.safetensors"
       ],
       "color": "#223",
       "bgcolor": "#335"
